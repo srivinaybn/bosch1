@@ -1,2 +1,1 @@
-lalalalalalalala
-git add . vin.txt
+added and edited
